@@ -29,7 +29,3 @@ docker build -t yolov5 .
 docker run -p 5000:5000 yolov5-flask:latest
 ```
 
-## reference
-- https://github.com/ultralytics/yolov5
-- https://github.com/jzhang533/yolov5-flask
-- https://github.com/avinassh/pytorch-flask-api-heroku
